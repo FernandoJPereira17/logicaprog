@@ -240,9 +240,9 @@ function calcularArea (arr){
 console.log(calcularArea(medidas));
 
 
-function nome (){
-    const newnome = arr.map(() =>{
+// function nome (){
+//     const newnome = arr.map(() =>{
 
-    });
-    return
-};
+//     });
+//     return
+// };
