@@ -27,3 +27,4 @@ console.log('numeros:', numeros);
 const reverso = numeros.reverse();
 console.log('reservo:', reverso);
 //Resultado: reservo: (3) ['three', 'two', 'one']
+
